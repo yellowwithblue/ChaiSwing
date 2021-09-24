@@ -1,5 +1,5 @@
-# TGCPPCA Compiler
-Git Repository For ChaiSwing 
+# Xamera 
+Git Repository For Xamera/Java with more features
 
 1. Download & Open With Intellij IDEA
 2. Click Add Configuration Then Click The Option Java & Select The Main Class Which In This Case Is Main.java.
